@@ -101,3 +101,4 @@ async function updateData(id,updatedText){
 
 fetchData();
 
+console.log("helooo");
